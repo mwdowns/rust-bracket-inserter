@@ -1,0 +1,6 @@
+[package]
+name = "rust-brackets-inserter"
+version = "0.1.0"
+authors = ["mwdowns <mwdowns@gmail.com>"]
+
+[dependencies]
